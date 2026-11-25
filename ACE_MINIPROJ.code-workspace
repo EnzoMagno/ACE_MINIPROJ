@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ACE_MINIPROJ",
+			"path": "../../PlatformIO/Projects/ACE_MINIPROJ"
+		}
+	],
+	"settings": {}
+}
